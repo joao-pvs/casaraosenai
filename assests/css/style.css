@@ -1,0 +1,275 @@
+html{
+    scroll-behavior: smooth ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    color: #2e3192  ;  
+}
+
+.topo{
+    text-align: left;
+    padding: 0px;
+    background-color: #2e3192;
+    position: fixed;
+    width: 100%;
+    top: 0%;  
+    
+}
+
+.nave{
+    display: flex;
+    align-items: center;
+    padding:20px;
+    gap: 200px;
+    background-color: 
+}
+
+.botoesnave{
+    position: relative;
+    left: 200px;
+    display: flex;
+    gap: 30px;
+}
+
+.botaoinicio{
+    background-color: #2e3192;
+    color: white;
+    border: #2e3192;
+    font-size: medium;
+    padding: 8px
+}
+
+.botaoinicio:hover{
+    color;
+}
+
+.botaoquemsomos{
+ background-color: #2e3192;
+    color: white;
+    border: #2e3192;
+    font-size: medium;
+    padding: 8px   
+}
+
+.botaofotos{
+    background-color: #2e3192;
+    color: white;
+    border: #2e3192;
+    font-size: medium;
+    padding: 8px
+}
+
+.botaocontato{
+    background-color: #2e3192;
+    color: white;
+    border: #2e3192;
+    font-size: medium;
+    padding: 8px;
+}
+
+.botaoreservas{
+    background-color:white;
+    color: #2e3192;
+    border: #2e3192;
+    font-size: medium;
+    padding: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.botaocardapio{
+     background-color:white;
+    color: #2e3192;
+    border: #2e3192;
+    font-size: medium;
+    padding: 8px;
+     padding-left: 40px;
+    padding-right: 40px;
+}
+
+.logocima{
+   position: relative;
+   left: 270px;
+}
+
+.inicio{
+    object-fit: cover;
+   text-align: center;
+   margin-top: 170px;
+}
+
+.apr{
+    text-align: center;
+}
+
+.quemsomos{
+    display: grid;
+    margin: 0;
+    padding: 0;
+    grid-template-columns: auto auto auto;
+    color: white;
+}
+
+.imagem1{
+    margin: -10px;
+}
+
+.imagem2{
+    margin-top: -10px;
+}
+
+.texto{
+    background-color: #2e3192;
+    color: white;
+    text-align: left;
+    padding-left:10px;
+    padding-top: 100px;
+    font-size: 18px;
+    margin: -10px;
+    max-height:  869px; 
+}
+
+.facasuareservaagora{
+    text-align: center;
+   margin-top: 80px;
+   color: #2e3192;
+}
+
+.botaoreserva{
+    background-color:#2e3192;
+    color:white ;
+    border: #2e3192;
+    font-size: large;
+    padding: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.botaoreserva:hover{
+    background-color:rgb(252, 226, 177);
+    color: #2e3192;
+    border: white;
+    transform: ;
+}
+
+.cumer{
+    background-color: #2e3192;
+    color: white;
+}
+
+.tremdecume{
+    text-align: center;
+    padding: 30px;
+}
+
+.fotoscume{
+   padding-left: 80px;
+}
+
+.vejaocardapio{
+     background-color:white;
+    color:#2e3192 ;
+    border: #2e3192;
+    font-size: large;
+    padding: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-top: 90px;
+    margin-left:680px;
+    margin-bottom: 90px;
+}
+
+.vejaocardapio:hover{
+    background-color:rgb(252, 226, 177) ;
+}
+
+.funcionamento{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    margin-left: 50px;
+}
+
+.horarioefuncionamento{
+    text-align: left;
+    font-size: small;
+    margin-left: 150px;
+}
+
+.insta{
+    background-color: #2e3192;
+    color: white;
+    margin: -1%;
+}
+.instagram{
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 5px;
+    background-color: #2e3192;
+    color: white;
+    border: #2e3192;
+}
+.instagram:hover{
+    color: rgb(252, 226, 177);
+}
+
+.imagensdoinstagram{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding-left: 2cm;
+    }
+
+    .localizacao{
+        text-align: center;
+    }
+
+    .endereco{
+        text-align: center;
+    }
+
+    .cardaeres{
+        display: flex;
+        gap: 30px;
+        margin-top: 100px;
+        margin-bottom: 50px;
+        padding-left: 580px;
+    }
+
+    .carda{
+        padding: 20px;
+        background-color: #2e3192;
+        color: white;
+        border: #2e3192;
+    }
+
+
+    .carda:hover{
+        background-color: rgb(252, 226, 177);
+        color: #2e3192;
+        border: white
+    }
+
+    .res{
+        
+        padding:10px ;
+        background-color : #2e3192;
+        color: white;
+        border: #2e3192;
+    }
+    .res:hover{
+        background-color: rgb(252, 226, 177);
+        color: #2e3192;
+        border: white
+
+    }
+
+    .rodape{
+        background-color: #2e3192;
+        text-align: center;
+        color: white;
+    }
+
+    .logobaixo{
+     padding: 100px;
+     
+    }
